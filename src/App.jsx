@@ -66,7 +66,7 @@ function App() {
         <div className="w-full bg-[#f4efff] border-b border-[#714dff] px-6 py-4 flex justify-between items-center">
           <div className="flex items-center h-6 mt-2">
             <img 
-              src="/sikt.png" 
+              src="https://www.cessda.eu/Images/Service-provider-logos/392/image-thumb__392__serviceprovider/Sikt-Norwegian-Agency-for-Shared-Services-in-Education-and-Research.png" 
               alt="Sikt Logo" 
               className="h-full w-auto object-contain" 
             />
