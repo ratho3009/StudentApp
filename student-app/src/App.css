@@ -1,0 +1,14 @@
+@keyframes flashStatus {
+  0%, 100% {
+    background-color: #bbf0d4;
+    color: #111827; /* Mørk grå/svart tekst */
+  }
+  50% {
+    background-color: #0b6244; /* Mørkegrønn farge fra bildet */
+    color: #ffffff; /* Hvit tekst for lesbarhet */
+  }
+}
+
+.animate-status-flash {
+  animation: flashStatus 1.1s ease-in-out 3; /* Blinker 3 ganger over ca 4 sekunder */
+}
