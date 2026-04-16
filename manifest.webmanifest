@@ -1,1 +1,1 @@
-{"name":"Studentbevis","short_name":"Student","start_url":"/StudentApp/","display":"standalone","background_color":"#ffffff","theme_color":"#ffffff","lang":"en","scope":"/StudentApp/","icons":[{"src":"/icon.png","sizes":"192x192","type":"image/png"}]}
+{"name":"Studentbevis","short_name":"Student","start_url":"/StudentApp/","display":"standalone","background_color":"#f5f5f5","theme_color":"#f4efff","lang":"en","scope":"/StudentApp/","icons":[{"src":"/icon.png","sizes":"192x192","type":"image/png"}]}
