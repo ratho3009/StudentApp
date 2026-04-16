@@ -13,7 +13,8 @@ export default defineConfig({
       manifest: {
         name: "Studentbevis",
         short_name: "Student",
-        theme_color: "#ffffff",
+        theme_color: "#f4efff",
+        background_color: "#f5f5f5",
         display: "standalone",
         icons: [
           {

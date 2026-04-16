@@ -63,7 +63,7 @@ function App() {
       <div className="min-h-screen bg-[#f5f5f5] flex flex-col items-center font-sans pb-10 w-full">
         
         {/* Header */}
-        <div className="w-full bg-[#f4efff] border-b border-[#714dff] px-6 py-4 flex justify-between items-center">
+        <div className="sticky top-0 z-50 w-full bg-[#f4efff] border-b border-[#714dff] px-6 py-4 flex justify-between items-center">
           <div className="flex items-center h-6 mt-2">
             <img 
               src="https://www.cessda.eu/Images/Service-provider-logos/392/image-thumb__392__serviceprovider/Sikt-Norwegian-Agency-for-Shared-Services-in-Education-and-Research.png" 
